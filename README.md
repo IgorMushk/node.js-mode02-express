@@ -6,20 +6,20 @@
 ### express-example-4
 
 $ npm init -y  
-$ npm i nodemon -D
+$ npm i nodemon -D  
 $ npm i express  
 
 $ npm i moment  
 $ npm i cors  
 
 
-####.gitignore  
-.idea
-.vscode
-package-lock.json
-yarn.lock
-.env
-node_modules/
+#### .gitignore  
+.idea  
+.vscode  
+package-lock.json  
+yarn.lock  
+.env  
+node_modules/  
 
 #### packege.json 
 "start": "node app",  
