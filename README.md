@@ -11,6 +11,7 @@ $ npm i express
 
 $ npm i moment  
 $ npm i cors  
+$ npm i nanoid@3.3.3
 
 
 #### .gitignore  
@@ -24,3 +25,5 @@ node_modules/
 #### packege.json 
 "start": "node app",  
 "start:dev": "nodemon app"  
+
+$ yarn start:dev
